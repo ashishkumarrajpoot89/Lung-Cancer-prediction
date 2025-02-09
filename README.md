@@ -1,4 +1,5 @@
 # Lung Cancer Prediction
+streamlit App: https://lung-cancer-prediction-xzs2jnstwqp8hgwsuhaeqd.streamlit.app/
 
 ## Project Overview
 This project aims to predict the likelihood of lung cancer in patients based on various health metrics and lifestyle factors. The model is trained using machine learning techniques and deployed through a web application.
